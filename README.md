@@ -1,2 +1,1 @@
-# Abdidi
-Everything
+print("P diddy")
